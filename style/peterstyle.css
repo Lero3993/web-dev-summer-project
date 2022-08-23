@@ -1,0 +1,25 @@
+.profile {
+  display: grid;
+}
+
+
+.peterpic {
+  width: 200px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.skills {
+  font-weight: bold;
+  margin-left: 65px;
+}
+
+.checked {
+  color: orange;
+}
+
+.skill {
+  margin-right: 7px;
+}
